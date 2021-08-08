@@ -1,0 +1,8 @@
+Added Room: Name=7SEG_ClockLed
+Added Room: Name=Button_ClockLed
+Added Room: Name=DS3231_ClockLed
+Added Room: Name=ESP8266_ClockLed
+Added Room: Name=MCU_Clock_Led
+Added Room: Name=Power_ClockLed
+Added Room: Name=Relay_ClockLed
+Added Room: Name=SenSor_ClockLed
